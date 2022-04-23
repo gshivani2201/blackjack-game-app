@@ -1,9 +1,9 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
-    background-image: url("images/table.png");
+    background-image: url("../photos/table.jpg");
     background-size: cover;
     font-weight: bold;
-    color: black;
+    color: white;
     text-align: center;
 }
 
